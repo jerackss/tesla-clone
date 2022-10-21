@@ -11,7 +11,6 @@ function Home() {
                 backgroundImg="model-s.jpg"
                 leftBtnText="Custom Order"
                 rightBtnText="Existing Inventory"
-
             />
             <Section
                 title="Model Y"
@@ -32,20 +31,20 @@ function Home() {
                 description="Order Online for Touchless Delivery"
                 backgroundImg="model-x.jpg"
                 leftBtnText="Custom Order"
-                rightBtnText="Existing Inventory" 
+                rightBtnText="Existing Inventory"
             />
-            <Section 
-            title="Lowest Cost Solar Panels in America"
-            description="Money-back guarantee"
-            backgroundImg="solar-panel.jpg"
-            leftBtnText="Order Now"
-            rightBtnText="Learn More"
+            <Section
+                title="Lowest Cost Solar Panels in America"
+                description="Money-back guarantee"
+                backgroundImg="solar-panel.jpg"
+                leftBtnText="Order Now"
+                rightBtnText="Learn More"
             />
-            <Section 
-            title="Accessories"
-            description=""
-            backgroundImg="accessories.jpg"
-            leftBtnText="Show Now"
+            <Section
+                title="Accessories"
+                description=""
+                backgroundImg="accessories.jpg"
+                leftBtnText="Show Now"
 
             />
         </Container>
